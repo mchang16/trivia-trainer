@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: 'Spartan', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.ui.button {
+  font-family: 'Spartan', sans-serif;
+}
+
+h1 {
+  font-family: 'DM Sans', sans-serif;
+}
+
+h2 {
+  font-family: 'Spartan', sans-serif;
+}
+
+.ui.message .header {
+  font-family: 'DM Sans', sans-serif;
+  text-align: center;
+}
+
+.ui.card {
+  width: 60%;
+  background-color: #fffff7;
+}

@@ -1,0 +1,72 @@
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    background-color: #aed6ca;
+}
+
+.ui.button.return-button {
+    background-color: aquamarine;
+    align-self: flex-start;
+    margin: 2em;
+}
+
+.ui.card > :first-child, .ui.cards > .card > :first-child {
+    margin: 2em;
+}
+
+.form {
+    align-self: center;
+    margin-bottom: 2em;
+}
+
+.question {
+    align-self: center;
+}
+
+.ui.form .fields {
+    margin-bottom: 2em;
+}
+
+.nav-button-container {
+    display: flex;
+}
+
+.ui.large.button.prev-question-button {
+    background-color: #f9f0cb;
+}
+
+.ui.large.button.next-question-button {
+    background-color: #f9f0cb;
+}
+
+.ui.button.submit-button {
+    background-color: #eacab9;
+}
+
+.ui.button.show-ans-button {
+    background-color: #eacab9;
+}
+
+.ans-buttons-container {
+    display: flex;
+}
+
+.score-title {
+    align-self: center;
+}
+
+.ui.button.play-again-button {
+    background-color: #f9f0cb;
+}
+
+.ui.button.main-menu-button {
+    background-color: #eacab9;
+}
+
+.ui.form .fields {
+    margin: 0;
+    margin-bottom: 2em;
+}

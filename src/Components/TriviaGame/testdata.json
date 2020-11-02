@@ -1,0 +1,75 @@
+[
+    {   
+        "allChoices": ["Devmynd", "Tandem", "Burger Shack", "Extraordinary Humans"],
+        "question": "What was Tandem previous name?",
+        "incorrect": ["Tandem", "Burger Shack", "Extraordinary Humans"],
+        "correct": "Devmynd"
+    },
+    {
+        "allChoices": ["Iacta alea est!", "Et tu, Brute?","Vidi, vini, vici", "Aegri somnia vana"],
+        "question": "In Shakespeare's play Julius Caesar, Caesar's last words were...",
+        "incorrect": ["Iacta alea est!", "Vidi, vini, vici", "Aegri somnia vana"],
+        "correct": "Et tu, Brute?"
+    },
+    {
+        "allChoices": ["Ambush", "Chowder", "Pride", "Destruction"],
+        "question": "A group of tigers are referred to as:",
+        "incorrect": ["Chowder", "Pride", "Destruction"],
+        "correct": "Ambush"
+    },
+    {
+        "allChoices": ["42 mph", "13 mph", "9 mph", "31 mph"],
+        "question": "What is the top speed an average cat can travel?",
+        "incorrect": ["42 mph", "13 mph", "9 mph"],
+        "correct": "31 mph"
+    },
+    {
+        "allChoices": ["3", "9", "5", "7"],
+        "question": "A cat can jump to _____ times its own height:",
+        "incorrect": ["3", "9", "7"],
+        "correct": "5"
+    },
+    {
+        "allChoices": ["M", "Q", "Z", "X"],
+        "question": "What is the only letter that doesn't appear in a US state name?",
+        "incorrect": ["M", "Z", "X"],
+        "correct": "Q"
+    },
+    {
+        "allChoices": ["Cowson", "Bicow", "Mooson", "Beefalo"],
+        "question": "What is the name for a cow-bison hybrid?",
+        "incorrect": ["Cowson", "Bicow", "Mooson"],
+        "correct": "Beefalo"
+    },
+    {
+        "allChoices": ["Lake Superior", "Lake Baikal", "Lake Michigan", "Lake Victoria"],
+        "question": "What is the largest freshwater lake in the world?",
+        "incorrect": ["Lake Baikal", "Lake Michigan", "Lake Victoria"],
+        "correct": "Lake Superior"
+    },
+
+    {
+        "allChoices": ["Wild Wild West", "War World Web", "World Wide Web"],
+        "question": "In a website address bar, what does WWW stand for?",
+        "incorrect": ["Wild Wild West", "War World Web"],
+        "correct": "World Wide Web"
+    },
+    {
+        "allChoices": ["20", "55", "22","77"],
+        "question": "In a game of bingo, what number is represented by the name two little ducks?",
+        "incorrect": ["20", "55", "77"],
+        "correct": "22"
+    },
+    {
+        "allChoices": ["Lilith", "Pandora","Eve", "Hera"],
+        "question": "According to Greek mythology, who was the first woman on Earth?",
+        "incorrect": ["Lilith", "Eve", "Hera"],
+        "correct": "Pandora"
+    },
+    {
+        "allChoices": ["London", "Belgium", "Munich", "Paris"],
+        "question": "In which European city would you find Orly airport?",
+        "incorrect": ["London", "Belgium", "Munich"],
+        "correct": "Paris"
+    }
+]

@@ -1,0 +1,41 @@
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    background-color: #aed6ca;
+}
+
+.ui.card > :first-child, .ui.cards > .card > :first-child {
+    margin: 2em;
+}
+
+.ui.card {
+    width: 60%;
+}
+
+.form {
+    align-self: center;
+    margin-bottom: 2em;
+}
+
+.question {
+    align-self: center;
+}
+
+.ui.form .fields {
+    margin-bottom: 2em;
+}
+
+.ui.button.submit-button {
+    background-color: #eacab9;
+}
+
+.ui.button.next-question-button {
+    background-color: #f9f0cb;
+}
+
+.score-title {
+    align-self: center;
+}
